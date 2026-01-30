@@ -74,7 +74,7 @@ sending search queries and receiving extracted web content in response.
   "mcpServers": {
     "rag-web-browser": {
       "command": "npx",
-      "args": ["@apify/mcp-server-rag-web-browser"],
+      "args": ["@opus-dex/mcp-server-rag-web-browser"],
       "env": {
         "APIFY_TOKEN": "your-apify-api-token"
       }
@@ -112,7 +112,7 @@ Or use the hosted endpoint: `https://mcp.apify.com` (when your client supports H
 
 Clone & install:
 ```bash
-git clone https://github.com/apify/mcp-server-rag-web-browser.git
+git clone https://github.com/opus-dex/mcp-server-rag-web-browser.pl.git
 cd mcp-server-rag-web-browser
 npm install
 ```
