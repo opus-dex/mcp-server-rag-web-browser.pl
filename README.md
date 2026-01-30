@@ -113,7 +113,7 @@ Or use the hosted endpoint: `https://mcp.apify.com` (when your client supports H
 Clone & install:
 ```bash
 git clone https://github.com/opus-dex/mcp-server-rag-web-browser.pl.git
-cd mcp-server-rag-web-browser
+cd mcp-server-rag-web-browser.pl
 npm install
 ```
 
